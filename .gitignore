@@ -1,0 +1,15 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Dependencias e saidas comuns
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Python
+__pycache__/
+.venv/
+*.pyc
